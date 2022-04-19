@@ -1,11 +1,8 @@
 Howdy, welcome to my page!
 
-I'm just working on whatever I feel like at the moment.
-Jumping between automation, databases, and fun little programs.
+Currently working though a web development course while brushing up my math and programming skills.
 
-Learning a bit of JavaScript and Python, hoping to move onto C# eventually.
-
-Personal website will be coming soon.
+Watch this space for updates.
 
 <!---
 ZedCole/ZedCole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
